@@ -487,7 +487,10 @@
                             <p class="w-[20%] text-[#818180] whitespace-nowrap">
                                 Tổng tiền
                             </p>
-                            <p class="text-[22px] font-semibold text-[#26bed6]">
+                            <p
+                                class="text-[22px] font-semibold text-[#26bed6]"
+                                th:text="${roomDto.getPrice()} + ' VND'"
+                            >
                                 5.766.000 VND
                             </p>
                         </div>
