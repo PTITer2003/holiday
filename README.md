@@ -20,9 +20,6 @@ This project is a web application for booking hotel rooms around the world. The 
 -   [Features](#features)
 -   [Technologies Used](#technologies-used)
 -   [Installation](#installation)
--   [Usage](#usage)
--   [Project Structure](#project-structure)
--   [License](#license)
 
 ## Introduction
 
